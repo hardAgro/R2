@@ -14,7 +14,7 @@
 # Instalação 
 1 - Faça o download dos arquivos e descompacte o arquivo deapp.zip </br>
 2 - Copie a pasta Deapp para a pasta do localhost no Apache. </br>
-3 - Edite o arquivo conexao.php e configure o usuário root e adcione a senha de acesso ao MYSQL, se houve. </br>
+3 - Edite o arquivo _include\classes\conexao.class.php e configure o usuário root e adcione a senha de acesso ao MYSQL, se houve. </br>
 4 - Crie um novo banco de dados no MYSQL com o nome DEA. </br>
 5 - Importe o conteúdo do arquivo deapp.sql para o MYSQL. </br>
 6 - Teste a aplicação abrindo a pasta no localhost\deapp </br>
