@@ -7,7 +7,7 @@
 - Alerta sobre condições anormais de MAD (infestação de mosca das frutas) através de monitoramento armadilhas eletrônicas de baixo custo.
 
 # Pré-requisitos
-1 - APACHE 2.0 + (Modo de escrita URL atívo) </br>
+1 - APACHE-PHP 2.0 + (Modo de escrita URL atívo) </br>
 2 - MYSQL 5.7 </br>
 3 - Arduino Software (IDE) 2.0
 
